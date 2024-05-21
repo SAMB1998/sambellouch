@@ -7,7 +7,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: VUE JS / REACT / JS / HTML / CSS /es6 /json
 
 - 🔭 I’m currently working on this page.
-- <img src="https://th.bing.com/th/id/R.4cde3a39234c0331be9afe3b8357e176?rik=xyVLyS%2bk2Quaig&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fdwmNhd5H7YAz6%2fgiphy.gif&ehk=BKnI49kPqJOIWmAq8jlGPc%2bgEwuDFit6tdjR3r7YyEo%3d&risl=&pid=ImgRaw&r=0" alt="gif"/>
+- <img src="https://th.bing.com/th/id/R.4cde3a39234c0331be9afe3b8357e176?rik=xyVLyS%2bk2Quaig&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fdwmNhd5H7YAz6%2fgiphy.gif&ehk=BKnI49kPqJOIWmAq8jlGPc%2bgEwuDFit6tdjR3r7YyEo%3d&risl=&pid=ImgRaw&r=0" width="200" alt="gif"/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAMB1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aissam-bellouch-a7a746301//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100092499253539)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sam bellouch/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](portfoliosambel-aissam.vercel.app)  
